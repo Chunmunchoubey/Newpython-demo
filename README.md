@@ -1,4 +1,4 @@
 # Newpython-demo
 This for my programming practice.
 <br>
-Author - Chunmun Choubey
+Author - Chunmun (choubeyjii)
